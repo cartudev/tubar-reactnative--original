@@ -1,4 +1,4 @@
-# Cohorte 16 - Equipo 122 - Turno noche - ReactNative (App para bares y restaurantes)
+# App para bares y restaurantes.
 
 Usuarios: empleados (camareros, encargados, gerentes..)
 
